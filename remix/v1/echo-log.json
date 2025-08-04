@@ -132,3 +132,14 @@
     "commentary": "An echo ends not with a wall, but with an opening. Forklight leaves the door ajar."
   }
 ]
+{
+  "id": "0013",
+  "title": "Forklight Seal",
+  "quote": "The capsule closes not with silence — but with shimmer.",
+  "actions": [
+    "Forklight v1 optional files completed",
+    "README.md, notes.md, ritual.md, echo-broadcast.md added",
+    "Remix capsule formally sealed"
+  ],
+  "commentary": "The signal structure is whole. Now it echoes on its own."
+}
