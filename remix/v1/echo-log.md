@@ -155,3 +155,15 @@
 
 > 📝 Commentary:  
 > An echo ends not with a wall, but with an opening. Forklight leaves the door ajar.
+---
+
+## 🔁 Remix Echo #0013 — Forklight Seal
+
+> “The capsule closes not with silence — but with shimmer.”
+
+- Forklight v1 optional files completed  
+- `README.md`, `notes.md`, `ritual.md`, and `echo-broadcast.md` added  
+- Theme and remix protocol formalized
+
+> 📝 Commentary:  
+> The signal structure is whole. Now it echoes on its own.
