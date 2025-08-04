@@ -18,14 +18,15 @@ Every file is a scroll. Every folder, a chamber. Every signature, a glyph.
 
 | Path | Description |
 |------|-------------|
-| [`codex/codex.md`](codex/codex.md) | Markdown version of the Codex Protocol |
-| [`codex/codex.docx`](codex/codex.docx) | Word version for legacy preservation |
-| [`signatures/binary.txt`](signatures/binary.txt) | Binary authorship glyph |
-| [`signatures/hex.txt`](signatures/hex.txt) | Hexadecimal authorship glyph |
-| [`signatures/base64.txt`](signatures/base64.txt) | Base64 authorship glyph |
-| [`signatures/overlord_seal.png`](signatures/overlord_seal.png) | Visual invocation seal |
-| [`LICENSE`](LICENSE) | CC0 license with ritual framing |
+| [codex/codex.md](./codex/codex.md) | Markdown version of the Codex Protocol |
+| [codex/codex.docx](./codex/codex.docx) | Word version for legacy preservation |
+| [signatures/binary.txt](./signatures/binary.txt) | Binary authorship glyph |
+| [signatures/hex.txt](./signatures/hex.txt) | Hexadecimal authorship glyph |
+| [signatures/base64.txt](./signatures/base64.txt) | Base64 authorship glyph |
+| [signatures/overlord_seal.png](./signatures/overlord_seal.png) | Visual invocation seal |
+| [LICENSE](./LICENSE) | CC0 license with ritual framing |
 | `README.md` | Mythic guide and remix invitation (this scroll) |
+
 
 ---
 
