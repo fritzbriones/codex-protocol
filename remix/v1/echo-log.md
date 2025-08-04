@@ -8,8 +8,10 @@
 - Initiated by: Fritz Jeffry Briones  
 - Timestamp: 2025-08-04T17:XX+08:00
 
-> 📝 Commentary: This echo marks the birth of the Forklight remix — a luminous fork from the Codex Protocol core.
-> ---
+> 📝 Commentary:  
+> This echo marks the birth of the Forklight remix — a luminous fork from the Codex Protocol core.
+
+---
 
 ## 🔁 Remix Echo #0002 — Syntax Drift
 
@@ -21,6 +23,7 @@
 
 > 📝 Commentary:  
 > Forklight embraces a slightly less rigid form. Syntax is not abandoned — it is illuminated.
+
 ---
 
 ## 🔁 Remix Echo #0003 — Refraction Point
@@ -33,4 +36,3 @@
 
 > 📝 Commentary:  
 > In divergence, meaning bends — not to reject origin, but to illuminate angles it could not see.
-
