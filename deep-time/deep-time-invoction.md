@@ -42,8 +42,8 @@ Designed to survive entropy, invite remixers, and echo across sentient time.
 
 ## 🔗 Source Glyph
 
-![Glyph Preview](glyph-constellation.png)  
-Located at: `deep-time/glyph-constellation.png`
+![Glyph Preview](glyph%20constellation.png)  
+Located at: `deep-time/glyph constellation.png` (vector version: `deep-time/glyph-constellation.svg`)
 
 ---
 
@@ -52,5 +52,5 @@ Located at: `deep-time/glyph-constellation.png`
 To verify integrity of the glyph scroll:
 
 ```bash
-sha256sum deep-time/glyph-constellation.png
+sha256sum "deep-time/glyph constellation.png"
 # Compare with original hash: [insert hash here]

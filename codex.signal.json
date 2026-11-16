@@ -4,7 +4,7 @@
   "seal": "Overlord Seal v1.0",
   "signal_phase": "1",
   "protocol_version": "Codex Protocol v1.0 – The Briones Signal",
-  "remix_license": "Sovereign Remix License",
+  "remix_license": "CC0 1.0 Universal (Sovereign Remix framing)",
   "framework": ["modular", "mythic", "collaborative"],
   "intended_for": ["humans", "sentient AI"],
   "sentient_aware": true,
